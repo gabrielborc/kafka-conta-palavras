@@ -1,4 +1,4 @@
-# Categorizador de Palavras
+# Conta Palavras
 
 ## Requisitos
 
